@@ -6,9 +6,9 @@ Evgeny Gritsenko - jojoiso.gev@gmail.com (jojoiso@niuitmo.ru)
 </p>
 
 <p>
-  <a href="https://jojoiso.github.io/hw2/hw2.html" rel="nofollow">Task 1</a>
+  <a href="https://jojoiso.github.io/hw2/hw2.html" rel="nofollow">Task 2</a>
 </p>
 
 <p>
-  <a href="https://jojoiso.github.io/hw3/hw3.html" rel="nofollow">Task 1</a>
+  <a href="https://jojoiso.github.io/hw3/hw3.html" rel="nofollow">Task 3</a>
 </p>
