@@ -1,0 +1,43 @@
+html {
+  font-size: 10px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+
+h1 {
+  font-size: 32px;
+  text-align: left;
+  color: #1946ba;
+}
+
+h2 {
+  font-size: 24px;
+  text-align: left;
+}
+
+p {
+  font-size: 16px;
+  line-height: 2;
+  border-left: 2px solid grey;
+  padding-left: 10px;
+}
+
+blockquote {
+  padding: 0 20px 20px 20px;
+  border: 2px solid grey;
+  border-color: rgb(220, 220, 220);
+  width: 960px;
+}
+
+
+html {
+  background-color: white;
+}
+
+button {
+  background-color: #ec0b43;
+  border: 0;
+  padding: 5px;
+  margin-top: 20px;
+  color: white;
+}
