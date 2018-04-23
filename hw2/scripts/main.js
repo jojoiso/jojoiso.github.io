@@ -58,7 +58,7 @@ d3.json("countries_2012.json", function(error, data) { //Не забыть по�
                         return d3.format(".2s")(d); //gdp
                         break;
                 case 30:
-                        return.d3.format(".1f")(d); //lt
+                        return d3.format(".1f")(d); //lt
                         break;
                 case 3:
                         return d3.format(".1f")(d); // life
