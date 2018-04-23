@@ -1,0 +1,28 @@
+thead {
+    font-weight: 700;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+table, th, td, caption {
+    border: 1px solid black;
+    }
+    tr:hover {
+        background-color: #bdcebf;
+    }
+    tr:nth-of-type(odd) {
+        background: #eee;
+    }
+    th.des.:after {
+        content: "▲";
+    }
+
+    th.aes:after {
+        content: "▼";
+    }
+    .hide {
+        display: none;
+    }
+}
