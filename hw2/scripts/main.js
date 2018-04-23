@@ -1,5 +1,5 @@
 d3.json("countries_2012.json", function(error, data) { //Не забыть потом вставить ссылку на JSON загруженного на гит
-
+console.log(data[0]['name'];
 
     var columns = Object.keys(data[0]);
     var colnames = ["name", "gdp", "life_expectancy", "year"];
