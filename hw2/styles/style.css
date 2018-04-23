@@ -15,7 +15,7 @@ table, th, td, caption {
     tr:nth-of-type(odd) {
         background: #eee;
     }
-    th.des.:after {
+    th.des:after {
         content: "▲";
     }
 
