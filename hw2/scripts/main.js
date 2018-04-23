@@ -41,7 +41,7 @@ d3.json("countries_2012.json", function(error, data) { //Не забыть по�
         .append("tr").attr("class", "row");
 
     var cells = rows.selectAll("td")
-        .data(function(row)) {
+        .data(function(row) {
 
         var newrow = []
         for (i=0; i<colnames.length; i++) {
