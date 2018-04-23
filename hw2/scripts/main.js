@@ -34,6 +34,7 @@ console.log(data[0]['name'])
                     this.className = "des"
                 }
             });
+    console.log(data[0]['name'])
 
     var rows = tbody.selectAll("tr.row")
         .data(data)
