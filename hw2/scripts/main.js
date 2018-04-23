@@ -1,5 +1,4 @@
-var url="https://birulik.github.io/ITMO/hw2/countries_2012.json"
-d3.json(url, function(error, data){
+d3.json("countries_2012.json", function(error, data){
   //console.log(data[0]['name'])
     
 	var isAscending = true;
