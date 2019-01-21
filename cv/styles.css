@@ -1,0 +1,76 @@
+body {
+    font-family: 'Lato', sans-serif;
+    padding: 0;
+    margin: 0;
+    background-color: #778899;
+    color: gainsboro;
+}
+
+.container {
+    width: 1170px;
+    margin: 0 auto;
+}
+
+.intro {
+    padding-bottom: 50px;
+}
+
+div {
+    box-sizing: border-box;
+}
+
+h1 {
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 40px;
+    padding-top: 50px;
+}
+
+a {
+    text-decoration: none;
+    color: #38d2fa;
+}
+
+a:hover {
+    color: lightcoral;
+}
+
+.project {
+    padding-top: 40px;
+}
+
+.project::after {
+    content: "";
+    display: block;
+    height: 1px;
+    width: 1170px;
+    background: #38d2fa;
+}
+
+.story {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 25px 0;
+    font-size: 14px;
+}
+
+.task {
+    flex: 180px;
+    padding-right: 25px;
+}
+
+.solution {
+    flex: initial;
+    padding-right: 25px;
+}
+
+.description {
+    flex: 300px;
+    text-align: right;
+
+}
+
+.description > p {
+    margin-top: 0;
+}
+
