@@ -1,0 +1,275 @@
+body {
+    font-family: Poppins;
+    padding: 0;
+    margin: 0;
+}
+
+.clearfix::after {
+    content: '';
+    display: table;
+    clear: both;
+    width: 100%;
+}
+
+#intro {
+    background-image: url("https://image.ibb.co/nxh2YU/header_background.jpg");
+}
+
+.logo {
+    margin-top: 30px;
+    margin-left: 55px;
+    float: left;
+}
+
+.menu {
+    font-size: 12px;
+    margin-top: 45px;
+    float: right;
+    display: block;
+}
+
+.menu li {
+    float: left;
+    display: block;
+    margin-right: 28px;
+}
+
+.menu a:hover {
+    color: #80E3FE;
+}
+.menu a {
+    color: black;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+div {
+    box-sizing: border-box;
+}
+
+h1 {
+    font-size: 60px;
+    text-transform: uppercase;
+    color: white;
+    text-align: center;
+    padding-top: 250px;
+}
+
+.button {
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-family: Poppins;
+    font-size: 15px;
+    display: block;
+    margin: 0 auto;
+    padding: 16px 0;
+    width: 137px;
+    background: #80E3FE;
+    color: white;
+}
+
+.titles a:hover {
+    background: black;
+}
+.titles {
+    padding-bottom: 160px;
+}
+
+.aboutTitle {
+    display: block;
+    margin-top: 88px;
+    margin-left: 53px;
+    max-width: 458px;
+}
+
+.aboutTitle h2 {
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+}
+
+.aboutTitle h2::after {
+    content: "";
+    display: block;
+    height: 1px;
+    width: 50px;
+    background: #38d2fa;
+    margin-top: 15px;
+}
+
+.aboutTitle p {
+    font-size: 13px;
+}
+
+.aboutDescription {
+    margin-left: 72px;
+    margin-top: 65px;
+    display: block;
+    max-width: 403px;
+}
+
+.aboutDescription h2 {
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    font-size: 18px;
+}
+
+.aboutDescription p {
+    font-size: 13px;
+    margin-left: 35px;
+}
+
+.aboutDescription a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: black;
+}
+
+.aboutDescription a::before {
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    content: "\f039";
+    font-size: 1.3em;
+    color: #80E3FE;
+    margin-right: 14px;
+}
+
+.aboutDesc_2 {
+    margin-top: 60px;
+}
+
+.img_about {
+    float: right;
+    margin-top: 80px;
+    margin-right: 50px;
+    margin-bottom: 111px;
+}
+
+#services {
+    background: url("https://image.ibb.co/mxDbtU/background2.jpg");
+    color: white;
+}
+
+.row1 {
+
+  }
+
+.element1 h3::before {
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    content: "\f039";
+    font-size: 1.6em;
+    color: #80E3FE;
+    margin-right: 19px;
+}
+
+.element2 h3::before {
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    content: "\f039";
+    font-size: 1.6em;
+    color: #80E3FE;
+    margin-right: 14px;
+}
+
+.element3 h3::before {
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    content: "\f039";
+    font-size: 1.6em;
+    color: #80E3FE;
+    margin-right: 14px;
+}
+
+* {
+    ggborder: 1px solid red;
+}
+
+.titleServices h2 {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 24px;
+    letter-spacing: 0.5px;
+    line-height: 36px;
+    font-weight: 600;
+    margin-top: 80px;
+}
+
+.titleServices h2::after {
+    content: "";
+    display: block;
+    height: 1px;
+    width: 50px;
+    background: #38d2fa;
+    margin-top: 15px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.element0 {
+    width: 330px;
+}
+
+.element0:first-child {
+    float: left;
+    margin-left: 75px;
+}
+
+.element0:last-child {
+    float: right;
+    margin-right: 87px;
+}
+
+.element0:nth-child(2) {
+    float: left;
+    margin-left: 45px;
+}
+
+.element1 p {
+    margin-left: 50px;
+    margin-top: -8px;
+}
+
+.row3 {
+    padding-bottom: 105px;
+}
+
+.imgPortfolio img:hover {
+    opacity: 0.3;
+}
+
+#your-name {
+    padding-right: 610px;
+    float: right;
+}
+
+#your-email {
+    padding-right: 610px;
+    float: right;
+}
+
+#your-message {
+    padding-right: 573px;
+    float: right;
+}
