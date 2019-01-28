@@ -11,4 +11,4 @@ Evgeny Gritsenko - jojoiso.gev@gmail.com (jojoiso@niuitmo.ru)
 <p>
   ------------------------------------------------------------------------------
 </p>
-<a href="https://jojoiso.github.io/cv/index.html" rel="nofollow">CV</a>
+<a href="https://jojoiso.github.io/cv/index.html" rel="nofollow">Story of study</a>
